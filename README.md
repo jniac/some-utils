@@ -1,3 +1,9 @@
+⚠️ Ce projet existe dorénavant en plusieurs endroits : 
+- [some-utils-ts](https://github.com/jniac/some-utils-ts)
+- [some-utils-three](https://github.com/jniac/some-utils-three)
+- [some-utils-misc](https://github.com/jniac/some-utils-misc)
+- etc.
+
 # some-utils
 
 typescript / react utils
